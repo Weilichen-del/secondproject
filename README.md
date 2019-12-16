@@ -2,3 +2,4 @@ This will be second project throughout the stay at imda bootcamp. i will be usin
 to display weather based on the current location. Attached is the link for your reference https://openweathermap.org/api
 
 - i will be using a image background with minimal css to dislay the font and etc. 
+- I will add a condition whereby if no region is detected, it will get the country weather. 
